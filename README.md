@@ -1,6 +1,7 @@
 # User Management API
 
 This project is a simple User Management API built with Flask, SQLAlchemy, and Marshmallow.
+Also, i have an instance of the API running [here](http://144.126.215.231:5000/users) enjoy! :)
 
 ## Features
 
